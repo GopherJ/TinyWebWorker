@@ -1,5 +1,5 @@
 {
-  "name": "tiny-worker",
+  "name": "tiny-web-worker",
   "version": "1.0.0",
   "description": "tiny js web worker",
   "main": "index.js",
